@@ -2,10 +2,10 @@
 
 ![](https://user-images.githubusercontent.com/242382/227745308-f34a1ea8-7dc7-4f1d-949e-ccab0c5ac17a.png)
 
-Manufacture: `Guangdong Dongguan Electric Motor Co`
-Model: `bb04015y4`
-Voltage: `24v`
-Wires: `4*`
+Manufacture: `Guangdong Dongguan Electric Motor Co`  
+Model: `bb04015y4`  
+Voltage: `24v`  
+Wires: `4*`  
 
 
 1. The fan is a 4 wire fan, with 1 wire missing
@@ -22,6 +22,8 @@ This means you likely cannot buy a drop in replacement fan. It may be possible t
 
 It is suspected that you could solder a wire to the open pad number 3 and get techometer readings. 
 
+
+![](https://user-images.githubusercontent.com/242382/227745812-547f4ba0-86cc-48eb-a090-1afa482aebb5.png) Photo Credit Cisien
 
 
 ## PWM Control
