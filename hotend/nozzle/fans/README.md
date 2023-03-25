@@ -6,6 +6,7 @@ Manufacture: `Guangdong Dongguan Electric Motor Co`
 Model: `bb04015y4`  
 Voltage: `24v`  
 Wires: `4*`  
+Connector: `JST-PH`
 
 
 1. The fan is a 4 wire fan, with 1 wire missing
