@@ -7,7 +7,8 @@ Model: `bb04015y4`
 Voltage: `24v`  
 Wires: `4*`  
 Connector: `JST-PH`
-Size: `40x40x15mm`
+Outer Size: `40x40x15mm`
+Moutning Hole Distance: `32x32mm`
 
 
 1. The fan is a 4 wire fan, with 1 wire missing
@@ -27,6 +28,10 @@ It is suspected that you could solder a wire to the open pad number 3 and get te
 
 ![](https://user-images.githubusercontent.com/242382/227745812-547f4ba0-86cc-48eb-a090-1afa482aebb5.png) Photo Credit Cisien
 
+
+### Size
+
+The fan is likley a custom made fan for Anker. The fan is 40x40x15mm and has mounting holes 32x32mm apart. These dimensions are not typical.
 
 ## PWM Control
 
