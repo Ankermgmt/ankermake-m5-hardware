@@ -8,7 +8,7 @@ Voltage: `24v`
 Wires: `4*`  
 Connector: `JST-PH`
 Outer Size: `40x40x15mm`
-Moutning Hole Distance: `32x32mm`
+Mounting Hole Distance: `32x32mm`
 
 
 1. The fan is a 4 wire fan, with 1 wire missing
