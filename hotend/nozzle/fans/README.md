@@ -13,7 +13,7 @@ Mounting Hole Distance: `32x32mm`
 
 1. The fan is a 4 wire fan, with 1 wire missing
 2. The yellow wire is actually a PWM wire, not a Tachometer wire (completely proprietary and not standard)
-3. Fan can run on both a 490hz PWM signal (arduino analog pin default) and a standard 25khz PWM signal. 
+3. Fan runs on a 20kHz PWM signal. It starts at a 87% duty cycle then ramps down to idle at 50% duty cycle.
 4. Fan does NOT have low RPM protection circuitry built in. (Meaning its possible to turn the fan _off_ with PWM.)
 5. PWM is non-inverted meaning 0% duty cycle = off, 100% duty cycle = max rpm
 
